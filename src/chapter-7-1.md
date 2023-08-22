@@ -1,5 +1,4 @@
-Overview of AI Applications for Decision Making in Office Administration
-================================================================================================================================
+
 
 Effective decision making is critical to success in office administration, and AI can provide powerful solutions for improving decision making processes. In this chapter, we provide an overview of AI applications for decision making in office administration.
 

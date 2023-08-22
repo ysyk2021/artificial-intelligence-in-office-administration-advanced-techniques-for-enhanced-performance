@@ -1,5 +1,4 @@
-Assessing the Effectiveness of AI for Office Administration
-====================================================================================================================
+
 
 As businesses increasingly adopt AI in office administration, it's important to assess the effectiveness of AI systems to ensure that they are delivering expected benefits. In this chapter, we will explore how to measure the impact of AI on office administration and assess the effectiveness of AI systems.
 
