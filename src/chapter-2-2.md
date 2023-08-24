@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is transforming office administration by automating routine tasks, improving decision-making processes, and enhancing overall efficiency. In this chapter, we will explore the types of AI used for office administration.
 
 Natural Language Processing (NLP)

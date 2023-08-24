@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) can be a powerful tool for enhancing performance and automating tasks in office administration. However, with so many tools and technologies available, it can be overwhelming to choose which ones are right for your business. In this chapter, we'll provide an overview of AI tools and technologies for office administration.
 
 Natural Language Processing (NLP)

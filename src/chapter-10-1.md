@@ -1,5 +1,4 @@
 
-
 As businesses increasingly adopt AI in office administration, it's important to consider the ethical implications of AI implementation. In this chapter, we will explore the ethical considerations for AI implementation in office administration and discuss how businesses can ensure ethical AI use.
 
 Transparency and Explainability

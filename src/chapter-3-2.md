@@ -1,5 +1,4 @@
 
-
 Before implementing AI in office administration, it's important to evaluate data availability and quality. In this chapter, we will explore the importance of data in AI implementation, how to evaluate data availability and quality, and best practices for ensuring high-quality data.
 
 The Importance of Data in AI Implementation
