@@ -8,3 +8,7 @@ In this introductory chapter, we provide an overview of the book's contents and 
 Overall, this book serves as a comprehensive guide to using AI for advanced techniques in office administration. Whether you're an office manager looking to improve productivity and efficiency, or a business owner seeking innovative solutions for better outcomes, this book provides valuable insights and practical advice for leveraging AI to enhance performance and automation in your workplace.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
