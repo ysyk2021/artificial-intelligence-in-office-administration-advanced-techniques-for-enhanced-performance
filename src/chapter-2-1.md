@@ -1,5 +1,4 @@
-Definition of AI-Powered Office Administration
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has become an indispensable tool for modern businesses. AI-powered office administration involves the use of advanced technologies to automate routine tasks, analyze data, and provide intelligent insights to improve business processes.
 

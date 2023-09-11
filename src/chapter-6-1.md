@@ -1,5 +1,4 @@
-Chapter 39: Overview of AI Applications for Administrative Task Management in Office Administration
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of various AI applications that can be utilized for administrative task management in office administration. These applications leverage artificial intelligence techniques to automate processes, enhance efficiency, and streamline administrative tasks.
 

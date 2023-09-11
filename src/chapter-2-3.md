@@ -1,5 +1,4 @@
-Benefits of AI for Creating More Efficient and Productive Office Operations
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is revolutionizing office administration by offering advanced techniques that enhance performance and automate various tasks. The integration of AI technologies in office operations brings numerous benefits, leading to increased efficiency and productivity. This chapter explores the advantages of using AI in office administration.
 

@@ -1,5 +1,4 @@
-Chapter 36: Best Practices for AI Implementation in Document Management, Expense Tracking, and Travel Planning
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore best practices for implementing AI in areas such as document management, expense tracking, and travel planning. These practices will help enhance performance, streamline processes, and automate routine tasks for improved efficiency in office administration.
 

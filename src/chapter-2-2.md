@@ -1,5 +1,4 @@
-Types of AI Used for Office Administration
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is rapidly transforming office administration by automating tasks, improving processes, and providing valuable insights for decision-making. There are several types of AI used in office administration, each with its specific applications and benefits. This chapter explores the different types of AI used for office administration.
 

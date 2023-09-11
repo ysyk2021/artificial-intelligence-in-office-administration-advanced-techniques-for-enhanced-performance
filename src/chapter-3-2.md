@@ -1,5 +1,4 @@
-Chapter 48: Evaluating Data Availability and Quality
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the importance of evaluating data availability and quality when implementing artificial intelligence (AI) techniques for enhanced performance and automation in office administration. Ensuring high-quality and relevant data is essential for accurate analysis, decision making, and successful AI implementation.
 

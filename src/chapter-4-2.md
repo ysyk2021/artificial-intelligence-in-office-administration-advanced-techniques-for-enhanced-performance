@@ -1,5 +1,4 @@
-Chapter 41: Key Factors to Consider When Choosing AI Tools
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the key factors that organizations should consider when selecting AI tools for office administration. Making informed decisions about AI tool adoption is crucial to ensure successful implementation and achieve the desired outcomes of enhanced performance and automation.
 

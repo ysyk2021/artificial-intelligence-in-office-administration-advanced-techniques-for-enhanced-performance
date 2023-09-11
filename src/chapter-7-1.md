@@ -1,5 +1,4 @@
-Chapter 43: Overview of AI Applications for Decision Making in Office Administration
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various applications of artificial intelligence (AI) for decision making in office administration. AI techniques can analyze data, identify patterns, and generate insights that support informed decision making, leading to enhanced performance and automation in administrative processes.
 

@@ -1,5 +1,4 @@
-Ethical Considerations for AI Implementation in Office Administration
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly advancing field of artificial intelligence (AI), ethical considerations play a crucial role in ensuring responsible and beneficial AI implementation in office administration. This chapter explores key ethical considerations that organizations need to address when adopting AI technologies in office administration to promote fairness, transparency, and human-centric values.
 

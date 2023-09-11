@@ -1,5 +1,4 @@
-Chapter 50: Assessing the Effectiveness of AI for Office Administration
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of assessing the effectiveness of artificial intelligence (AI) for office administration. Evaluating the impact and success of AI implementation is crucial for measuring performance, identifying areas of improvement, and maximizing the benefits of AI-driven solutions.
 

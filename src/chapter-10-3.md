@@ -1,5 +1,4 @@
-Legal and Regulatory Considerations for AI Implementation in Office Administration
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) continues to revolutionize office administration, it is crucial for businesses to navigate the legal and regulatory landscape surrounding its implementation. This chapter explores the key legal and regulatory considerations that organizations must take into account when adopting AI technologies in office administration.
 

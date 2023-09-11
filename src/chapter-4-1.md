@@ -1,5 +1,4 @@
-Chapter 37: Overview of AI Tools and Technologies for Office Administration
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of various AI tools and technologies that can be utilized in office administration. These tools and technologies help enhance performance, automate tasks, and streamline workflows, leading to improved efficiency in office operations.
 

@@ -1,5 +1,4 @@
-Chapter 55: Overview of AI Applications for Customer Service in Office Administration
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of various artificial intelligence (AI) applications for customer service within the field of office administration. These AI technologies have revolutionized customer interactions by enabling automation, personalization, and enhanced efficiency. We will explore the key AI applications that are transforming customer service in office administration.
 

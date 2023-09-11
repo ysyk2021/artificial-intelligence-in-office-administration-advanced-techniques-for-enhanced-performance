@@ -1,5 +1,4 @@
-Chapter 46: Overview of AI Applications for Communication and Collaboration in Office Administration
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various applications of artificial intelligence (AI) in communication and collaboration within office administration. These AI-powered solutions are transforming how teams communicate, collaborate, and streamline administrative processes to enhance performance and automation.
 
